@@ -7,6 +7,7 @@
 - Thomas Linder: thlinder[ät]hotmail[ponkt]com
 - Patrick Matti: patrick.matti[ät]gmx[ponkt]ch
 - Roland Albrecht: roli_the_first[ät]hotmail[ponkt]com
+- Oliver Zadori: oliver.zadori[ät]gmx[ponkt]ch
 
 ## unbestätigt
 
